@@ -1,9 +1,9 @@
 # vtprogs
-//This file is just a brief introduction of what I have practiced while enhanching my programming abilites.
+** This file is just a brief introduction of what I have practiced while enhanching my programming abilites.
 
-// I have mainly focused on achieving O(N) time complexities in most of the programs .
+** I have mainly focused on achieving O(N) time complexities in most of the programs .
 
-// My Main aim was to write optimal code which takes the least space and time
+** My Main aim was to write optimal code which takes the least space and time
 
 // 1st Java Program
 Balanced Parenthisis
